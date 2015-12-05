@@ -16,7 +16,7 @@ Add icons.js to your HTML
 
 Instant icons will do the rest of the work!
 
- * Font-Awesome: `<fa cloud></fa>` -> `<i class="fa fa-cloud"></i>`
- * Glyphicons: `<gi heart></gi>` -> `<span class="glyphicon glyphicon-heart"></span>`
+ * Font-Awesome: `<fa cloud></fa> -> <i class="fa fa-cloud"></i>`
+ * Glyphicons: `<gi heart></gi> -> <span class="glyphicon glyphicon-heart"></span>`
 
 For additional classes, just add them as other attributes on the tag: `<fa search fa-2x></fa>`
